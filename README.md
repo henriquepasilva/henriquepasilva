@@ -1,6 +1,6 @@
-# Olá, eu sou o Henrique Silva! 👋
+# Olá, o meu nome é Henrique Silva! 👋
 
-Sou estudante universitário de Engenharia Informática na Universidade Lusófona do Porto.  
+Atualmete sou estudante do 3º e último ano de Engenharia Informática na Universidade Lusófona do Porto.  
 
 ---
 
@@ -47,9 +47,9 @@ Sou estudante universitário de Engenharia Informática na Universidade Lusófon
 
 ## 📊 My Stats
 
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=dark)
+![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquepasilva&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepasilva&layout=compact&theme=dark)
 
 ---
 
