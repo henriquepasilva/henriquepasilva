@@ -47,9 +47,9 @@ Atualmete sou estudante do 3º e último ano de Engenharia Informática na Unive
 
 ## 📊 My Stats
 
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquepasilva&show_icons=true&theme=dark)
+![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?henriquepasilva=henriquepasilva&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepasilva&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?henriquepasilva=henriquepasilva&layout=compact&theme=dark)
 
 ---
 
