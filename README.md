@@ -25,7 +25,6 @@ Atualmete sou estudante do 3º e último ano de Engenharia Informática na Unive
 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### 🌐 Desenvolvimento Web
 
