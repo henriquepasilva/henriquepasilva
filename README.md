@@ -43,15 +43,6 @@ Atualmete sou estudante do 3º e último ano de Engenharia Informática na Unive
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-## 📊 My Stats
-
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?henriquepasilva=henriquepasilva&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?henriquepasilva=henriquepasilva&layout=compact&theme=dark)
-
----
 
 ## 📫 Contacta-me
 
